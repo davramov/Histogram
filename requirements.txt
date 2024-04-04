@@ -1,0 +1,11 @@
+argparse
+cupy
+quart
+quart_compress
+numpy
+matplotlib
+opencv-python
+queue
+requests
+tabulate
+time
